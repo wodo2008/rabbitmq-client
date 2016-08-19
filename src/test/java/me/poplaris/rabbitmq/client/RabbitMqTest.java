@@ -84,7 +84,7 @@ public class RabbitMqTest{
 		liLei.setSpouse(hanMeiMei);
 		hanMeiMei.setSpouse(liLei);
 		return hanMeiMei;
-	}
+	}dddd
 	
 	class ApiProcessEventProcessor implements EventProcesser{
 		@Override
